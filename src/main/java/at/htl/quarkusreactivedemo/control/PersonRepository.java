@@ -11,4 +11,5 @@ import java.util.List;
 @ApplicationScoped
 public class PersonRepository implements PanacheRepository<Person>  {
 
+
 }
